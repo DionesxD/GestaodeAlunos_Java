@@ -31,7 +31,7 @@ Bem-vindo ao Projeto de Gestão de Alunos em Java! Este programa oferece uma int
 2. Clone o repositório para o seu ambiente local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/DionesxD/Aula_Java.git
+   git clone https://github.com/DionesxD/GestaodeAlunos_Java.git
    ```
 
 3. Navegue até o diretório do projeto:
