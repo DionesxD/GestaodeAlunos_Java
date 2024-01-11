@@ -37,7 +37,7 @@ Bem-vindo ao Projeto de Gestão de Alunos em Java! Este programa oferece uma int
 3. Navegue até o diretório do projeto:
 
    ```bash
-   cd projeto-gestao-alunos-java
+   cd CadastroAlunos
    ```
 
 4. Compile e execute o programa:
